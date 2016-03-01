@@ -7,8 +7,8 @@ $ g++ -framework OpenGL -framework GLUT -framework Foundation mandelbrot.cpp -o 
 $ ./mandelbrot
 ```
 
-A mandelbrot set picture will be generated after a few minutes.
+A mandelbrot set picture will be generated after a few minutes.  
 It can be operated with keyboard.
 
-space key -> zoom
+space key -> zoom  
 direction key -> move
